@@ -1,8 +1,9 @@
 <script lang="ts"></script>
 
 <main class="main">
-  <p class="hello">ELEGANT</p>
-  <p class="hello">DESIGN, ENGINEER.</p>
+  <p class="hello">I INNOVATE.</p>
+  <p class="hello">DEVELOP. IMPACT</p>
+  <p class="hello">ITERATE.</p>
 </main>
 
 <style>
